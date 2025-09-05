@@ -4,6 +4,7 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "env": {
-    "NEXTAUTH_URL": "https://your-domain.vercel.app",
+    "NEXTAUTH_URL": "https://micro-lending-app.vercel.app/",
+     "NEXTAUTH_SECRET": "secrethaisecret"
   }
 }
